@@ -1,0 +1,20 @@
+{
+  "name": "visual_nuts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc -w && copyfiles .env"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "copyfiles": "^2.4.1",
+    "dotenv": "^16.0.0"
+  }
+}

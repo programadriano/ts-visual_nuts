@@ -1,0 +1,50 @@
+{
+    "result": [
+        {
+            "country": "BR",
+            "languages": [
+                "pt-br"
+            ]
+        },
+        {
+            "country": "US",
+            "languages": [
+                "en"
+            ]
+        },
+        {
+            "country": "BE",
+            "languages": [
+                "nl",
+                "fr",
+                "de"
+            ]
+        },
+        {
+            "country": "EE",
+            "languages": [
+                "est",
+                "ru",
+                "en"
+            ]
+        },
+        {
+            "country": "NL",
+            "languages": [
+                "nl"
+            ]
+        },
+        {
+            "country": "DE",
+            "languages": [
+                "de"
+            ]
+        },
+        {
+            "country": "ES",
+            "languages": [
+                "es"
+            ]
+        }
+    ]
+}
