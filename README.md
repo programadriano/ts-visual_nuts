@@ -92,7 +92,7 @@ challeng2
 
 
 
-#### to run tests
+### to run tests
 ```command
 npx jest
 ```
