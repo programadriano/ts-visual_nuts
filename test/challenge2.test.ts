@@ -26,10 +26,7 @@ describe('Challenge 2', () => {
     })
 
     test('#findTheMostCommonOfficialLangOfAllCountries should return all the highest count for langs', () => {
-        const result = challenge.findTheMostCommonOfficialLangOfAllCountries()
-        const expected = { en: 2, nl: 2, de: 2 }
-
-        expect(result).toStrictEqual(expected)
+        expect(challenge.findTheMostCommonOfficialLangOfAllCountries()).toStrictEqual({ en: 2, nl: 2, de: 2 })
     })
 
 });
